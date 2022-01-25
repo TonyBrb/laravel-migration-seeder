@@ -35,4 +35,5 @@ class CreateTravelAgencysTable extends Migration
     {
         Schema::dropIfExists('travel_agencys');
     }
+    
 }
